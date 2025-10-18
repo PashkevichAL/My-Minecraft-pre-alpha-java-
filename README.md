@@ -8,3 +8,11 @@ First of all:
 3. Create a pre-classic version.
 
 After completing this tasks I will start move gradually to working on the pre-alpha version.
+
+
+##################
+###  PROGRESS  ###
+##################
+
+Active task: (1) Learn the basics of programming on java.
+Completed tasks: None. 
