@@ -4,7 +4,7 @@ This is not a guide. Just a path of a newbie in programing.
 
 First of all:
 1. Learn the basics of programming on java.
-2. Get at least basics knowledge of gamedev.
+2. Get basics knowledge of gamedev.
 3. Create a pre-classic version.
 
 After completing this tasks I will start move gradually to working on the pre-alpha version.
