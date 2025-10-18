@@ -9,10 +9,7 @@ First of all:
 
 After completing this tasks I will start move gradually to working on the pre-alpha version.
 
-
-##################
-###  PROGRESS  ###
-##################
+# PROGRESS
 
 Active task: (1) Learn the basics of programming on java.
 Completed tasks: None. 
