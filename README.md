@@ -12,4 +12,5 @@ After completing this tasks I will start move gradually to working on the pre-al
 # PROGRESS
 
 Active task: (1) Learn the basics of programming on java.
+
 Completed tasks: None. 
